@@ -14,7 +14,7 @@ displays it nicely to your screen in a card.
 
 ## LIVE PREVIEW
 
-`https://thomas-boop.github.io/Weather-app/`
+(`https://thomas-boop.github.io/Weather-app/`)
 
 ## Installation
 
